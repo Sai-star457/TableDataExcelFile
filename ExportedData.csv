@@ -3908,7 +3908,7 @@ gobject_id,template_definition_id,derived_from_gobject_id,contained_by_gobject_i
 6934,346,1409,0,0,0,,0,0,8589,0,0,0,$ND9000010OS,,{DC0D5452-1803-4142-8FC6-3B49FD7DCCFC},{F5FF43C8-7212-4A52-89FC-DC0B7C12AF47},2,0,-1,0,0,0,$ND9000010OS,1,0
 6935,337,1400,0,0,0,,0,0,8590,0,0,0,$FFDevice_Strategy,,{A923E216-F57A-413D-96CB-4E4261BEF36A},{950887E0-70FC-4EF5-8F4C-C255C36D86DF},1,0,-1,0,0,0,$FFDevice_Strategy,1,0
 6936,337,6935,0,0,0,,0,0,8592,0,0,0,$METSO_ND9000_2328_REV6_0601_Dev,,{E04E123C-3597-4136-8E01-C30DFB92D64B},{904715A5-6932-48C5-BAA7-BF532C860C19},2,0,-1,0,0,0,$METSO_ND9000_2328_REV6_0601_Dev,1,0
-6985,67,756,0,0,1462,,0,0,9697,0,0,0,TEST_020,,{93E8A201-1405-4088-B6FB-A6071AA34B87},{0FD1CB50-DC93-4245-AEC3-E3A0D5F8DE4D},1,0,0,0,0,6,TEST_020,1,0
+6985,67,756,0,0,1462,,0,0,9697,0,0,0,TESTING,,{93E8A201-1405-4088-B6FB-A6071AA34B87},{0FD1CB50-DC93-4245-AEC3-E3A0D5F8DE4D},1,0,0,0,0,6,TESTING,1,0
 gobject_change_log_id,gobject_id,change_date,operation_id,user_comment,configuration_version,user_profile_name
 1,2,2023-11-09 06:26:45.050000000,2,Check out by user.,1,SystemEngineer
 2,2,2023-11-09 06:26:45.663000000,0,Check in by user.,2,SystemEngineer
@@ -9966,3 +9966,4 @@ gobject_change_log_id,gobject_id,change_date,operation_id,user_comment,configura
 11276,6985,2024-08-06 04:42:50.497000000,30,Rename object successful.,1,Administrator
 11277,6985,2024-08-06 04:43:14.647000000,30,Rename object successful.,1,Administrator
 11278,6985,2024-08-06 08:58:32.723000000,30,Rename object successful.,1,Administrator
+11279,6985,2024-08-07 06:20:56.557000000,30,Rename object successful.,1,Administrator
